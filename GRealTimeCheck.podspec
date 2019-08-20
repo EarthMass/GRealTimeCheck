@@ -88,8 +88,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  =  "GTRealTimeCheck/podfile/**/*.{h,m}"
-  spec.resources = "GTRealTimeCheck/podfile/**/*.{hosts}"
+  spec.source_files  =  "GRealTimeCheck/podfile/**/*.{h,m}"
+  spec.resources = "GRealTimeCheck/podfile/**/*.{hosts}"
   # spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
